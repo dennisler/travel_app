@@ -1,0 +1,6 @@
+{
+  "name": "TripDeck - Smart Travel Planner",
+  "description": "Desktop-first intelligent travel planner with live context, flight estimates, reversible wet-weather re-planning, logistics bookings, and shareable itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
